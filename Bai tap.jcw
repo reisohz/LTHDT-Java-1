@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Bai tap</label>
+	</settings>
+	<users>
+		<user>
+			<path>Bai tap.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Bai tap.jcp</path>
+		</project>
+		<project>
+			<path>Bai 3\Bai 3.jcp</path>
+		</project>
+		<project>
+			<path>Bai 4\Bai 4.jcp</path>
+		</project>
+		<project>
+			<path>Ptbac2\Ptbac2.jcp</path>
+		</project>
+		<project>
+			<path>timUocChung\timUocChung.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Bai 1</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Bai 1</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+		<project>
+			<label>Bai 3</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Bai 3\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>Bai 4</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Bai 4\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>Ptbac2</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Ptbac2\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>timUocChung</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>timUocChung\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\Bai_1.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Bai 3\src\Bai_3.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Bai 4\src\Bai_4.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Ptbac2\src\Ptbac2.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>timUocChung\src\timUocChung.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
